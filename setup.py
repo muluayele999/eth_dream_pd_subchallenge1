@@ -31,7 +31,7 @@ setup(
         "synapseclient >= 1.7.2",
         "numpy >= 1.13.1",
         "Keras >= 1.2.2",
-        "scikit-learn == 0.19.0",
+        "scikit-learn == 1.5.0",
         "h5py == 2.7.0"
     ]
 )
